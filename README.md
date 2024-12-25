@@ -11,7 +11,7 @@ Welcome! This is a module-free and library-free implementation of a password enc
 SSH
 
 ```bash
-  git clone git@github.com:Nairobi-X/Password-Encryption-Algorithm-2024.git
+git clone git@github.com:Nairobi-X/Password-Encryption-Algorithm-2024.git
 ```
 
 GitHub CLI
