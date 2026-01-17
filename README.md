@@ -1,8 +1,8 @@
 # Python Project: Password Encryption
 
-Welcome! This is a module-free and library-free implementation of a password encryption algorithm.
+This is a module-free and library-free implementation of a password encryption algorithm.
 
-⚠️ **Disclaimer** : Please do not use this for encrypting plaintext passwords in production. I personally use it (rarely) only as an additional layer after my passwords have already been encrypted. It’s redundant but fun! 
+⚠️ **Disclaimer** : Not recommended for use encrypting plaintext passwords. Far superior algorithms handle this better. 
 
 ---
 
@@ -23,6 +23,6 @@ gh repo clone Nairobi-X/Password-Encryption-Algorithm-2024
 
 # License
 
-This project is licensed under the MIT License. Feel free to do whatever you want with it—seriously, no strings attached!
+This project is licensed under the MIT License. Free use for everyone.
 
 [View License](/LICENSE.md)
